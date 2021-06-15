@@ -1,6 +1,8 @@
 # Intro
 This purpose of this repository is to home a list of papers I deem important for the areas I am interested in. I should have started this repo right when I started reading into deep learning. Instead I will now add the papers I have read in the past as I come across them again. Further I extend this list with topics I am researching.
 
+Some of these models, methods and architectures I have implemented from scratch. I am planning to extract them into seperate notebooks and upload them as I find time.
+
 ## Computer Vision
 
 ### Classification
@@ -25,7 +27,7 @@ This purpose of this repository is to home a list of papers I deem important for
 ## Adversarial Deep Learning
 + Intro / FGSM: [Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I., & Fergus, R. (2013). Intriguing properties of neural networks.](https://arxiv.org/abs/1312.6199)
 + Adversarial Training: [Goodfellow, I. J., Shlens, J., & Szegedy, C. (2014). Explaining and harnessing adversarial examples.](https://arxiv.org/abs/1412.6572.pdf)
-+ PGD / Adversarial Training: [Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2017). Towards deep learning models resistant to adversarial attacks.] (https://arxiv.org/abs/1706.06083)
++ PGD / Adversarial Training: [Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2017). Towards deep learning models resistant to adversarial attacks.](https://arxiv.org/abs/1706.06083)
 + Free: [Shafahi, A., Najibi, M., Ghiasi, A., Xu, Z., Dickerson, J., Studer, C., ... & Goldstein, T. (2019). Adversarial training for free!.](https://arxiv.org/abs/1904.12843)
 + Carlini & Wagner Attacks: [Carlini, N., & Wagner, D. (2017, May). Towards evaluating the robustness of neural networks.](https://arxiv.org/abs/1608.04644)
 + Brendel & Betghe Attacks: [Brendel, W., Rauber, J., Kümmerer, M., Ustyuzhaninov, I., & Bethge, M. (2019). Accurate, reliable and fast robustness evaluation.](https://arxiv.org/abs/1907.01003)
