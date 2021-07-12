@@ -17,6 +17,9 @@ Some of these models, methods and architectures I have implemented from scratch.
 + Yolo v1:[Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You only look once: Unified, real-time object detection.](https://arxiv.org/abs/1506.02640)
 + RetinaNet / Focal Loss: [Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollár, P. (2017). Focal loss for dense object detection.](https://arxiv.org/abs/1708.02002)
 
+###
++ U-Net: [Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation.](https://arxiv.org/pdf/1505.04597.pdf)
+
 ## Neural Network Pruning
 + [Han, S., Pool, J., Tran, J., & Dally, W. J. (2015). Learning both weights and connections for efficient neural networks.](https://arxiv.org/abs/1506.02626)
 + [Zhang, T., Ye, S., Zhang, K., Tang, J., Wen, W., Fardad, M., & Wang, Y. (2018). A systematic dnn weight pruning framework using alternating direction method of multipliers.](https://arxiv.org/abs/1802.05747)
